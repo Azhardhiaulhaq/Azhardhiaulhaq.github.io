@@ -27,3 +27,8 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<audio controls autoplay>
+  <source src="/audio/audio2/1.Model1.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
